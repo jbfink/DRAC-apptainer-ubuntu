@@ -1,4 +1,4 @@
-This is an [Apptainer](https://apptainer.org/) definition file intended to create an Ubuntu 22.04 system with NVIDIA Cuda 12.1 support. It's intended to be used on the [Digital Research Alliance of Canada](https://alliancecan.ca/en)'s compute stack (I test on Cedar, but it should probably work on any of DR's machines).
+This is an [Apptainer](https://apptainer.org/) definition file that creates an Ubuntu 22.04 system with NVIDIA CUDA 12.1 support. It's intended to be used on the [Digital Research Alliance of Canada](https://alliancecan.ca/en)'s compute stack (I test on Cedar, but it should probably work on any of DR's machines).
 
 To build:
 
