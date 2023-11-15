@@ -8,4 +8,4 @@ Build with `apptainer build ubuntu-nvidia-12.1.sif ubuntu-nvidia-12.1.def`
 
 Note that Digital Research's CUDA level may change, in which case I'll have to rebuild this with the appropriate CUDA. To check the CUDA level on any machine that has CUDA support, run the command `nvidia-smi -q`. 
 
-(n.b. -- I build this on my laptop, which also runs Ubuntu 22.04. It's *extremely possible* that this won't actually build on DRAC's infrastructure, given filesystem limitations
+(n.b. -- I build this on my laptop, which also runs Ubuntu 22.04. It's *extremely possible* that this won't actually build on DRAC's infrastructure, given filesystem limitations)
